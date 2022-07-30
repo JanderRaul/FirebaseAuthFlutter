@@ -3,9 +3,7 @@
 ## Estudos de Flutter
 ### Nesta aplicação desenvolvi uma tela de Login e Registro com autenticação com o Firebase Auth
 ###
-### Foram utilizados os package: 
-### <a href="https://pub.dev/packages/firebase_core">Firebase Core</a>;
-### <a href="https://pub.dev/packages/firebase_auth">Firebase Auth</a>;
+### Foram utilizados os package: <a href="https://pub.dev/packages/firebase_core">Firebase Core</a> e <a href="https://pub.dev/packages/firebase_auth">Firebase Auth</a>;
 ###
 ### Dah uma olhada em como ficou:
 <div style:"display: flex">

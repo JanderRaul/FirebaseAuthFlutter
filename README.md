@@ -1,16 +1,13 @@
 # flutter_application_fireauth
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Estudos de Flutter
+### Nesta aplicação desenvolvi uma tela de Login e Registro com autenticação com o Firebase Auth
+###
+### Foram utilizados os package: 
+### <a href="https://pub.dev/packages/firebase_core">Firebase Core</a>;
+### <a href="https://pub.dev/packages/firebase_auth">Firebase Auth</a>;
+###
+### Dah uma olhada em como ficou:
+<div style:"display: flex">
+  <img src="https://github.com/JanderRaul/FirebaseAuthFlutter/blob/main/assets/App.png" style="width: 100%;">
+</div>
